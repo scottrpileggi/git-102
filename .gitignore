@@ -1,5 +1,2 @@
 #Local environment files
 .env*
-
-#Sensitive JS files
-app.js
